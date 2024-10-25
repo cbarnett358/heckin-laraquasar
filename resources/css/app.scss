@@ -1,0 +1,15 @@
+//--------------------------------------------- Card Styles ---------------------------------------------
+.my-card {
+    width: 100%;
+    max-width: 250px;
+}
+.custom-caption {
+    text-align: center;
+    padding: 12px;
+    color: white;
+    background-color: rgba(0, 0, 0, .3);
+}
+
+h1, h2 {
+    color: $secondary;
+}
